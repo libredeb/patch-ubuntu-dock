@@ -1,0 +1,16 @@
+@import url("/usr/share/gnome-shell/theme/Yaru-dark/gnome-shell.css");
+
+.show-apps {
+  border-radius: 0px!important;
+  padding-top: 0px!important;
+  background-color: #DD4814!important;
+}
+
+.show-apps:hover .show-apps-icon, .show-apps:active .show-apps-icon, .show-apps:checked .show-apps-icon, .show-apps:focus .show-apps-icon {
+  border-radius: 0px!important;
+}
+
+.show-apps .show-apps-icon {
+  border: none;
+  margin: 0px!important;
+}
